@@ -1,0 +1,5 @@
+ Nombre Cliente : Pablo Direccion cliente : callexID : 0
+Nombre : combo corral queso con piña Precio neto : 26350 IVA : 5006Descuento : 0.1 Precio total : 31356
+Nombre: gaseosa con suero costeño Precio neto : 8000 IVA : 1520 Precio total : 9520
+
+  Precio neto : 34350 Precio iva : 6526 Precio total : 40876

@@ -1,0 +1,97 @@
+HABITACION
+
+public String id;
+public int capacidad;
+public String ubicacion;
+public String tipo;
+public boolean vista;
+public boolean balcon;
+public boolean cocina;
+
+
+
+
+PRODUCTO MENU
+
+public String nombre;
+public float precio;
+
+
+
+
+TARIFA
+
+public String tipoHabitacion;
+public float precio; 
+public String fecha;
+public String diaDeSemana;
+
+
+
+
+
+CATALOGO
+
+public ArrayList <HashMap<String(ID) , List<habitacion>> habitaciones;
+public int precioSpa;
+public int precioGuia;
+public ArrayList<HasMap<String(dia del año), float (tarifa)>> tarifas;
+public list<ProductoMenu> menu;
+
+
+
+
+
+
+
+
+
+HUESPED DE RESERVA
+
+public String nombre;
+public String documento;
+public String correo;
+public String celular;
+public int cantidadAcmopañantes;
+public int numeroHabitaciones;
+public float montoTotal;
+public boolean estado;
+
+
+
+
+RESERVACIONES
+
+public String fechaLlegada;
+public String fechaSalida;
+public float precio;
+
+
+
+
+HABITACION INVENTARIO
+
+public String id;
+public HasMap<String(fecha), boolean >;
+
+
+
+
+MENU INVENTARIO
+public String nombre;
+public HashMap<int(float(hora),boolean>;
+
+
+
+
+INVENTARIO
+
+public ArrayList <HashMap<String(ID) , List<habitacionInventario>> habitaciones;
+public ArrayList <HashMap<String(nombre) , List<menuInventario>> menu;
+
+
+
+
+
+
+
